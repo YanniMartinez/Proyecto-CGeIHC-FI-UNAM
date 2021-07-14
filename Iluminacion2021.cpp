@@ -1,6 +1,10 @@
 /*
 Semestre 2021-2
-Práctica 6: Iluminación
+
+COMPUTACIÓN GRÁFICA ----- Proyecto Final
+
+Integrantes:
+Aguilar Plascencia Laura Fabiola
 Martínez Martínez Yanni
 */
 //para cargar imagen
